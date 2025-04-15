@@ -5,5 +5,7 @@ public class EvenOdd {
             System.out.println(num + " is Even");
         else
             System.out.println(num + " is Odd");
+        System.out.println(num + " is Odd");
+        System.out.println(num + " is Odd");
     }
 }
